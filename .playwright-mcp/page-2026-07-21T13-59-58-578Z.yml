@@ -1,0 +1,102 @@
+- generic [active] [ref=f68e1]:
+  - banner [ref=f68e2]:
+    - generic [ref=f68e5]:
+      - link [ref=f68e8] [cursor=pointer]:
+        - /url: /
+        - img "Website for automation practice" [ref=f68e9]
+      - list [ref=f68e12]:
+        - listitem [ref=f68e13]:
+          - link " Home" [ref=f68e14] [cursor=pointer]:
+            - /url: /
+            - generic [ref=f68e15]: 
+            - text: Home
+        - listitem [ref=f68e16]:
+          - link " Products" [ref=f68e17] [cursor=pointer]:
+            - /url: /products
+            - generic [ref=f68e18]: 
+            - text: Products
+        - listitem [ref=f68e19]:
+          - link " Cart" [ref=f68e20] [cursor=pointer]:
+            - /url: /view_cart
+            - generic [ref=f68e21]: 
+            - text: Cart
+        - listitem [ref=f68e22]:
+          - link " Signup / Login" [ref=f68e23] [cursor=pointer]:
+            - /url: /login
+            - generic [ref=f68e24]: 
+            - text: Signup / Login
+        - listitem [ref=f68e25]:
+          - link " Test Cases" [ref=f68e26] [cursor=pointer]:
+            - /url: /test_cases
+            - generic [ref=f68e27]: 
+            - text: Test Cases
+        - listitem [ref=f68e28]:
+          - link " API Testing" [ref=f68e29] [cursor=pointer]:
+            - /url: /api_list
+            - generic [ref=f68e30]: 
+            - text: API Testing
+        - listitem [ref=f68e31]:
+          - link " Video Tutorials" [ref=f68e32] [cursor=pointer]:
+            - /url: https://www.youtube.com/c/AutomationExercise
+            - generic [ref=f68e33]: 
+            - text: Video Tutorials
+        - listitem [ref=f68e34]:
+          - link " Contact us" [ref=f68e35] [cursor=pointer]:
+            - /url: /contact_us
+            - generic [ref=f68e36]: 
+            - text: Contact us
+  - generic [ref=f68e39]:
+    - generic [ref=f68e41]:
+      - heading "Login to your account" [level=2] [ref=f68e42]
+      - generic [ref=f68e43]:
+        - textbox "Email Address" [ref=f68e44]
+        - textbox "Password" [ref=f68e45]
+        - button "Login" [ref=f68e46] [cursor=pointer]
+    - heading "OR" [level=2] [ref=f68e48]
+    - generic [ref=f68e50]:
+      - heading "New User Signup!" [level=2] [ref=f68e51]
+      - generic [ref=f68e52]:
+        - textbox "Name" [ref=f68e53]
+        - textbox "Email Address" [ref=f68e54]
+        - button "Signup" [ref=f68e55] [cursor=pointer]
+  - contentinfo [ref=f68e56]:
+    - generic [ref=f68e61]:
+      - heading "Subscription" [level=2] [ref=f68e62]
+      - generic [ref=f68e63]:
+        - textbox "Your email address" [ref=f68e64]
+        - button "" [ref=f68e65] [cursor=pointer]
+        - paragraph [ref=f68e67]: Get the most recent updates from our site and be updated your self...
+    - paragraph [ref=f68e71]: Copyright © 2021 All rights reserved
+  - text: 
+  - insertion [ref=f68e73]:
+    - generic [ref=f68e76]:
+      - heading "These are topics related to the article that might interest you" [level=2] [ref=f68e78]: Discover more
+      - link "Test case examples" [ref=f68e79] [cursor=pointer]
+      - link "Software testing services" [ref=f68e84] [cursor=pointer]
+      - link "Networking" [ref=f68e89] [cursor=pointer]
+  - insertion [ref=f68e94]:
+    - iframe [ref=f68e97]:
+      - iframe [ref=f77e1]:
+        - generic:
+          - generic [ref=f80e3]:
+            - iframe [ref=f80e6]:
+              - generic [ref=f84e2] [cursor=pointer]:
+                - generic [ref=f84e13]:
+                  - generic [ref=f84e14]: Envie de performance à un prix exceptionnel?
+                  - generic [ref=f84e16]:
+                    - generic [ref=f84e17]: à partir de
+                    - generic [ref=f84e19]:
+                      - generic [ref=f84e20]:
+                        - generic [ref=f84e21]: /mois*
+                        - generic [ref=f84e22]: €
+                      - generic [ref=f84e24]:
+                        - generic [ref=f84e25]: "36"
+                        - generic [ref=f84e26]: 50€
+                - generic [ref=f84e29]:
+                  - generic [ref=f84e30]: Livebox Pro Fibre
+                  - generic [ref=f84e31]: Orange PRO
+            - button [ref=f80e15] [cursor=pointer]
+          - iframe
+  - generic [ref=f68e99]:
+    - button "Privacy and cookie settings" [ref=f68e100] [cursor=pointer]
+    - generic [ref=f68e101]: "Managed by Google. Complies with IAB TCF. CMP ID: 300"

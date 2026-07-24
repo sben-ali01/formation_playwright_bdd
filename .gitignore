@@ -1,0 +1,16 @@
+# Secrets — JAMAIS sur GitHub
+.env
+
+# Dépendances — trop lourdes (200+ Mo)
+node_modules/
+
+# Rapports générés — inutiles sur GitHub
+allure-results/
+allure-report/
+rapports/
+
+# Compilation TypeScript
+dist/
+
+# Fichiers système Mac
+.DS_Store

@@ -1,0 +1,37 @@
+# =============================================================================
+# config/config.yaml
+# =============================================================================
+#
+# ROLE : Données de test de la carte bancaire
+#
+# POURQUOI YAML ET PAS .env ?
+#   Le .env est fait pour des valeurs simples KEY=VALUE
+#   Le YAML permet de GROUPER les données liées (cardName, cardNumber...)
+#   sous une clé parente "payment" → plus lisible et organisé
+#
+# VERSIONNÉ DANS GIT : OUI — données fictives, pas de risque
+# ATTENTION : utiliser des ESPACES — jamais des tabulations
+# =============================================================================
+
+# ── Données de paiement ───────────────────────────────────────────────────────
+
+payment:
+# ↑ Clé parente — groupe toutes les données de carte bancaire
+#   Dans le code : config.payment.cardNumber
+
+  cardName: "Test Automation"
+  # ↑ Nom affiché sur la carte
+  #   N'importe quel texte — non vérifié par Automation Exercise
+
+  cardNumber: "4111111111111111"
+  # ↑ Numéro Visa de test universel
+  #   NE JAMAIS mettre un vrai numéro ici
+
+  cvc: "123"
+  # ↑ Code de sécurité — n'importe quelle valeur à 3 chiffres
+
+  expiryMonth: "12"
+  # ↑ Mois d'expiration — doit être dans le futur
+
+  expiryYear: "2027"
+  # ↑ Année d'expiration — doit être dans le futur

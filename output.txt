@@ -1,0 +1,67 @@
+ Navigateur lancé
+@products
+Feature: Gestion des produits # src/features/ui/produits.feature:2
+
+  En tant qu'utilisateur sur Automation Exercise
+  Je veux pouvoir consulter la liste des produits
+  Afin de trouver un article qui m'intéresse
+
+  @products @afficherListe
+  Scenario: Affichage de la liste des produits # src/features/ui/produits.feature:11
+Nouvelle page ouverte
+    Given je suis sur la page des produits
+    Then je devrais voir une liste de produits
+    And le nombre de produits affichés devrait être supérieur à 0
+✅ Affichage de la liste des produits
+
+  @products @rechercheProduit
+  Scenario: Recherche d'un produit par mot-clé # src/features/ui/produits.feature:16
+Nouvelle page ouverte
+    Given je suis sur la page des produits
+    When je recherche le produit "dress"
+    Then je devrais voir des résultats de recherche
+    And chaque résultat devrait contenir le mot "dress"
+    ✖ failed
+      Error: expect(received).toContain(expected) // indexOf
+
+      Expected substring: "dress"
+      Received string:    "sleeves top and short - blue & pink"
+          at captureRawStack (/Users/salmabenali/Desktop/PlaywrightAvancé/formation_play_bdd/node_modules/playwright-core/lib/coreBundle.js:3130:17)
+          at callMatcherAsStep (/Users/salmabenali/Desktop/PlaywrightAvancé/formation_play_bdd/node_modules/playwright/lib/matchers/expect.js:12873:57)
+          at Object.toContain (/Users/salmabenali/Desktop/PlaywrightAvancé/formation_play_bdd/node_modules/playwright/lib/matchers/expect.js:12863:23)
+          at World.<anonymous> (/Users/salmabenali/Desktop/PlaywrightAvancé/formation_play_bdd/src/steps/ui/produits.steps.ts:50:18)
+❌ Recherche d'un produit par mot-clé
+
+  @products @afficherProduit
+  Scenario: Affichage du détail d'un produit # src/features/ui/produits.feature:22
+Nouvelle page ouverte
+    Given je suis sur la page des produits
+    When je clique sur le premier produit
+    Then je devrais voir le nom du produit
+    And je devrais voir le prix du produit
+    And je devrais voir la description du produit
+✅ Affichage du détail d'un produit
+
+Navigateur fermé
+Failures:
+
+1) Scenario: Recherche d'un produit par mot-clé # src/features/ui/produits.feature:16
+   ✔ Before # src/hooks/hooks.ts:96
+   ✔ Given je suis sur la page des produits # src/steps/ui/produits.steps.ts:12
+   ✔ When je recherche le produit "dress" # src/steps/ui/produits.steps.ts:22
+   ✔ Then je devrais voir des résultats de recherche # src/steps/ui/produits.steps.ts:43
+   ✖ And chaque résultat devrait contenir le mot "dress" # src/steps/ui/produits.steps.ts:47
+       Error: expect(received).toContain(expected) // indexOf
+
+       Expected substring: "dress"
+       Received string:    "sleeves top and short - blue & pink"
+           at captureRawStack (/Users/salmabenali/Desktop/PlaywrightAvancé/formation_play_bdd/node_modules/playwright-core/lib/coreBundle.js:3130:17)
+           at callMatcherAsStep (/Users/salmabenali/Desktop/PlaywrightAvancé/formation_play_bdd/node_modules/playwright/lib/matchers/expect.js:12873:57)
+           at Object.toContain (/Users/salmabenali/Desktop/PlaywrightAvancé/formation_play_bdd/node_modules/playwright/lib/matchers/expect.js:12863:23)
+           at World.<anonymous> (/Users/salmabenali/Desktop/PlaywrightAvancé/formation_play_bdd/src/steps/ui/produits.steps.ts:50:18)
+   ✔ After # src/hooks/hooks.ts:129
+       Attachment (image/png)
+
+3 scenarios (1 failed, 2 passed)
+12 steps (1 failed, 11 passed)
+0m13.483s (executing steps: 0m12.723s)

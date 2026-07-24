@@ -1,0 +1,249 @@
+[     983ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/login' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/login:0
+[     983ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/login' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/login:0
+[     983ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/login' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/login:0
+[    1015ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.automationexercise.com/login:0
+[    2181ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2192ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[    2229ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://z.moatads.com/havasfrorangedcmdisplay758646212611/moatad.js#moatClientLevel1=34325999&moatClientLevel2=4440622&moatClientLevel3=431171786&moatClientLevel4=242873427&zMoatADV=9229046&zMoatDBMIOID=&zMoatDBMCampID=&zMoatDBMCreaID=&zMoatENV=j:0
+[    2229ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://z.moatads.com/havasfrorangedcmdisplay758646212611/moatad.js#moatClientLevel1=34325999&moatClientLevel2=4440622&moatClientLevel3=431171786&moatClientLevel4=242873427&zMoatADV=9229046&zMoatDBMIOID=&zMoatDBMCampID=&zMoatDBMCreaID=&zMoatENV=j:0
+[    2277ms] [LOG] Banner initialised @ https://s0.2mdn.net/sadbundle/8477070406226599230/js/banner.js:8
+[    2278ms] [LOG] Polite loading scripts @ https://s0.2mdn.net/sadbundle/8477070406226599230/js/banner.js:13
+[    2323ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://www.automationexercise.com/login:0
+[    2330ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://www.automationexercise.com/login:0
+[    2386ms] [WARNING] Invalid property scaleFrom set to 1.5 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2386ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2386ms] [WARNING] Invalid property xTo set to 600 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2386ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2386ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2386ms] [WARNING] Invalid property alphaFrom set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2386ms] [WARNING] Invalid property alphaTo set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property scaleFrom set to 1.5 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property xTo set to 600 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property alphaFrom set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property alphaTo set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property xTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property alphaFrom set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property alphaTo set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2387ms] [WARNING] Invalid property varParent set to textGrid5 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2388ms] [WARNING] Invalid property label set to Circle [shape1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2388ms] [WARNING] Invalid property varParent set to textGrid13 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2388ms] [WARNING] Invalid property label set to Props: [Text Grid 1] | Parent: [Mixed] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2388ms] [WARNING] Invalid property label set to Props: [Text Grid 2] | Parent: [Banner] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2388ms] [WARNING] Invalid property label set to Props: [Text Grid 3] | Parent: [Banner] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property label set to Props: [Text Grid 4] | Parent: [Banner] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property xTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property yFrom set to 150 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property alphaFrom set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property alphaTo set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property varParent set to textGrid12 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property label set to Props: [Text Grid 5] | Parent: [textGrid12] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property varParent set to textGrid5 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property label set to Props: [Text Grid 6] | Parent: [textGrid5] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property varParent set to textGrid6 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property label set to Props: [Text Grid 7] | Parent: [textGrid6] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property varParent set to textGrid7 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property label set to Props: [Text Grid 8] | Parent: [textGrid7] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property varParent set to textGrid6 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property label set to Props: [Text Grid 9] | Parent: [textGrid6] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2389ms] [WARNING] Invalid property label set to Props: [Text Grid 10] | Parent: [Banner] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2390ms] [WARNING] Invalid property label set to Props: [Text Grid 11] | Parent: [Banner] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2390ms] [WARNING] Invalid property label set to Props: [Text Grid 12] | Parent: [Banner] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2390ms] [WARNING] Invalid property label set to Props: [Text Grid 13] | Parent: [Banner] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2390ms] [WARNING] Invalid property label set to Label: [Long Legal Grid] | Props: [Text Grid 14] | Parent: [Banner] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2390ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2390ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2390ms] [WARNING] Invalid property xFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2390ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2390ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2391ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2391ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2391ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2391ms] [WARNING] Invalid property varParent set to textGrid13 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2391ms] [WARNING] Invalid property label set to Feed: [Message_Commercial] | Props: [Copy1] | Parent: [Banner] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2391ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2392ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property varParent set to textGrid1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property xFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property label set to Feed: [Offer] | Props: [Copy2] | Parent: [textGrid1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property label set to HelvNeue55_W1G  [Text Style 2] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property styles set to textStyle2 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property varParent set to textGrid1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property xFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2393ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property label set to Feed: [Date_Count] | Props: [Copy3] | Parent: [textGrid1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property xTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property varParent set to textGrid12 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property label set to Feed: [Web_Offer] | Props: [Copy4] | Parent: [textGrid12] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property xFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property xTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2394ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property varParent set to textGrid12 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property label set to Feed: [Message_Commercial] | Props: [Copy5] | Parent: [textGrid12] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property xTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property yFrom set to -90 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property alphaFrom set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property varParent set to textGrid12 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property label set to Feed: [Titre] | Props: [Copy6] | Parent: [textGrid12] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2395ms] [WARNING] Invalid property yFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property varParent set to textGrid5 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property label set to Feed: [Message_Prix] | Props: [Copy7] | Parent: [textGrid5] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property yFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property varParent set to textGrid9 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property label set to Feed: [Prix] | Props: [Copy8] | Parent: [textGrid9] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property yFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2396ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2397ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2397ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2397ms] [WARNING] Invalid property varParent set to textGrid8 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2397ms] [WARNING] Invalid property label set to Feed: [Currency] | Props: [Copy9] | Parent: [textGrid8] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2397ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2397ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property yFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property varParent set to textGrid8 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property label set to Feed: [HT] | Props: [Copy10] | Parent: [textGrid8] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property yFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property varParent set to textGrid7 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property label set to Feed: [Per_Month] | Props: [Copy11] | Parent: [textGrid7] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2398ms] [WARNING] Invalid property yFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property varParent set to textGrid9 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property label set to Feed: [Old_Price] | Props: [Copy12] | Parent: [textGrid9] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property xTo set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property yFrom set to 15 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property alphaTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property varParent set to textGrid11 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property label set to Feed: [End_Copy] | Props: [Copy13] | Parent: [textGrid11] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property label set to HelvNeue75_W1G  [Text Style 1] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property styles set to textStyle1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property varParent set to textGrid14 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2399ms] [WARNING] Invalid property label set to Label: [Close Button] | Props: [Copy14] | Parent: [textGrid14] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2400ms] [WARNING] Invalid property label set to HelvNeue55_W1G  [Text Style 2] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2400ms] [WARNING] Invalid property styles set to textStyle2 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2400ms] [WARNING] Invalid property varParent set to textGrid14 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2400ms] [WARNING] Invalid property label set to Label: [Long Legal] | Props: [Copy14] | Parent: [textGrid14] Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2400ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2400ms] [WARNING] Invalid property xTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2400ms] [WARNING] Invalid property yFrom set to -150 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property alphaFrom set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property alphaTo set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property varParent set to textGrid12 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property xFrom set to 300 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property xTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property alphaFrom set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property alphaTo set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property scaleFrom set to 1.5 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property xTo set to 600 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2401ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property alphaFrom set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property alphaTo set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property varParent set to textGrid10 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property addClick set to false Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property rollOverBG set to transparent Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property rollOverText set to #fff Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property xFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property xTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property yFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property yTo set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2402ms] [WARNING] Invalid property alphaFrom set to 0 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2403ms] [WARNING] Invalid property alphaTo set to 1 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2403ms] [WARNING] Invalid property varParent set to textGrid12 Missing plugin? gsap.registerPlugin() @ https://s0.2mdn.net/ads/studio/cached_libs/gsap_3.2.4_min.js:9
+[    2403ms] [LOG] false @ https://s0.2mdn.net/creatives/assets/5515260/starter-kit.js?v=4:386
+[    2705ms] [TIMEEND] a: 0.0009765625 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31
+[  141490ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/signup' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700,100'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/signup:18
+[  141490ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/signup' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Open+Sans:400,800,300,600,700'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/signup:18
+[  141490ms] [ERROR] Mixed Content: The page at 'https://www.automationexercise.com/signup' was loaded over HTTPS, but requested an insecure stylesheet 'http://fonts.googleapis.com/css?family=Abel'. This request has been blocked; the content must be served over HTTPS. @ https://www.automationexercise.com/signup:18
+[  141500ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.automationexercise.com/signup:0
+[  143165ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[  143165ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[  143179ms] [ERROR] Attestation check for Shared Storage on https://www.googleadservices.com failed. @ https://www.googleadservices.com/pagead/managed/js/activeview/current/reach_worklet.html:0
+[  143247ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://z.moatads.com/havasfrorangedcmdisplay758646212611/moatad.js#moatClientLevel1=35236717&moatClientLevel2=4440622&moatClientLevel3=441650925&moatClientLevel4=250830944&zMoatADV=9229046&zMoatDBMIOID=&zMoatDBMCampID=&zMoatDBMCreaID=&zMoatENV=j:0
+[  143247ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://z.moatads.com/havasfrorangedcmdisplay758646212611/moatad.js#moatClientLevel1=35236717&moatClientLevel2=4440622&moatClientLevel3=441650925&moatClientLevel4=250830944&zMoatADV=9229046&zMoatDBMIOID=&zMoatDBMCampID=&zMoatDBMCreaID=&zMoatENV=j:0
+[  143280ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&gdpr=1&gdpr_consent=CQnsyEAQnsyEAEsACBENCoFoAP_gAEPgABBoMGoB7C7cbCFCCDJ3ILsEEABHQJAAYsAwBAIAAgABDBIQIBwCgEEYBASIFCACCAAAIAQBAAAkGAAAAUAAIAABAABEAAwAIBAIIAAAgAEAAEIAAAAoCIgAEQCAAAAEBEAAkAgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAAQAAQAAAgAgAgAAAAAAAAAAIAAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAIMGoB7C7cbCFCCDBXILsEEABXQJAAYsAwBAIAAgABDBIQIAwCkEESBACIECAACAAAIAQBAAAoEAgAAEAAAAABAABEAAwAIBAIAAAAgAEAQEAAAAAICIgAEQCAAAAEBEAAgQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAACAAwAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAABAAAAAIAA.IMGoB7C7cbCFCCDJ3ILsEEABXQJAAYsAwBAIAAgABDBIQIBwCkEEaBASIFCACCAAAIAQBAAAsGAgAAUAAIAABAABEAAwAIBAIIAAAgAEAQEIAAAAoCIgAEQCAAAAEBEAAkQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAASAAwAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAEAAAAAAAAAAAAAAAABAAAAAIA&addtl_consent=1~5231.2657.89.61.2822.827.3005.2567.1033.15731.1342.2813.1029.3126.1725.2963.144.3023.2568.385.2920.494.495.576.2224.230.3253.550.122.70.2878.161.196.1025.16831.1097.1126.1301.2778.2068.2416.2575.33931.1942.2074.2109.2869.1047.2223.442.13731.445.2577&uid=CAESEIqec9NEFsURL2TjNgoK0TE&google_cver=1:0
+[  143280ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&gdpr=1&gdpr_consent=CQnsyEAQnsyEAEsACBENCoFoAP_gAEPgABBoMGoB7C7cbCFCCDJ3ILsEEABHQJAAYsAwBAIAAgABDBIQIBwCgEEYBASIFCACCAAAIAQBAAAkGAAAAUAAIAABAABEAAwAIBAIIAAAgAEAAEIAAAAoCIgAEQCAAAAEBEAAkAgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAAQAAQAAAgAgAgAAAAAAAAAAIAAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAIMGoB7C7cbCFCCDBXILsEEABXQJAAYsAwBAIAAgABDBIQIAwCkEESBACIECAACAAAIAQBAAAoEAgAAEAAAAABAABEAAwAIBAIAAAAgAEAQEAAAAAICIgAEQCAAAAEBEAAgQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAACAAwAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAABAAAAAIAA.IMGoB7C7cbCFCCDJ3ILsEEABXQJAAYsAwBAIAAgABDBIQIBwCkEEaBASIFCACCAAAIAQBAAAsGAgAAUAAIAABAABEAAwAIBAIIAAAgAEAQEIAAAAoCIgAEQCAAAAEBEAAkQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAASAAwAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAEAAAAAAAAAAAAAAAABAAAAAIA&addtl_consent=1~5231.2657.89.61.2822.827.3005.2567.1033.15731.1342.2813.1029.3126.1725.2963.144.3023.2568.385.2920.494.495.576.2224.230.3253.550.122.70.2878.161.196.1025.16831.1097.1126.1301.2778.2068.2416.2575.33931.1942.2074.2109.2869.1047.2223.442.13731.445.2577&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dspotxchange_dbm%26google_hm%3D%24SPOTX_BASE64_USER_ID:0
+[  143247ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://z.moatads.com/havasfrorangedcmdisplay758646212611/moatad.js#moatClientLevel1=35236717&moatClientLevel2=4440622&moatClientLevel3=441650925&moatClientLevel4=250830944&zMoatADV=9229046&zMoatDBMIOID=&zMoatDBMCampID=&zMoatDBMCreaID=&zMoatENV=j:0
+[  143280ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&gdpr=1&gdpr_consent=CQnsyEAQnsyEAEsACBENCoFoAP_gAEPgABBoMGoB7C7cbCFCCDJ3ILsEEABHQJAAYsAwBAIAAgABDBIQIBwCgEEYBASIFCACCAAAIAQBAAAkGAAAAUAAIAABAABEAAwAIBAIIAAAgAEAAEIAAAAoCIgAEQCAAAAEBEAAkAgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAAQAAQAAAgAgAgAAAAAAAAAAIAAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAIMGoB7C7cbCFCCDBXILsEEABXQJAAYsAwBAIAAgABDBIQIAwCkEESBACIECAACAAAIAQBAAAoEAgAAEAAAAABAABEAAwAIBAIAAAAgAEAQEAAAAAICIgAEQCAAAAEBEAAgQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAACAAwAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAABAAAAAIAA.IMGoB7C7cbCFCCDJ3ILsEEABXQJAAYsAwBAIAAgABDBIQIBwCkEEaBASIFCACCAAAIAQBAAAsGAgAAUAAIAABAABEAAwAIBAIIAAAgAEAQEIAAAAoCIgAEQCAAAAEBEAAkQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAASAAwAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAEAAAAAAAAAAAAAAAABAAAAAIA&addtl_consent=1~5231.2657.89.61.2822.827.3005.2567.1033.15731.1342.2813.1029.3126.1725.2963.144.3023.2568.385.2920.494.495.576.2224.230.3253.550.122.70.2878.161.196.1025.16831.1097.1126.1301.2778.2068.2416.2575.33931.1942.2074.2109.2869.1047.2223.442.13731.445.2577&uid=CAESEIqec9NEFsURL2TjNgoK0TE&google_cver=1:0
+[  143280ms] [ERROR] Failed to load resource: net::ERR_NAME_NOT_RESOLVED @ https://sync.search.spotxchange.com/partner?adv_id=7025&gdpr=1&gdpr_consent=CQnsyEAQnsyEAEsACBENCoFoAP_gAEPgABBoMGoB7C7cbCFCCDJ3ILsEEABHQJAAYsAwBAIAAgABDBIQIBwCgEEYBASIFCACCAAAIAQBAAAkGAAAAUAAIAABAABEAAwAIBAIIAAAgAEAAEIAAAAoCIgAEQCAAAAEBEAAkAgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAAQAAQAAAgAgAgAAAAAAAAAAIAAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAIMGoB7C7cbCFCCDBXILsEEABXQJAAYsAwBAIAAgABDBIQIAwCkEESBACIECAACAAAIAQBAAAoEAgAAEAAAAABAABEAAwAIBAIAAAAgAEAQEAAAAAICIgAEQCAAAAEBEAAgQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAACAAwAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAAAAAAAAAAAAAAABAAAAAIAA.IMGoB7C7cbCFCCDJ3ILsEEABXQJAAYsAwBAIAAgABDBIQIBwCkEEaBASIFCACCAAAIAQBAAAsGAgAAUAAIAABAABEAAwAIBAIIAAAgAEAQEIAAAAoCIgAEQCAAAAEBEAAkQgAAAIAWEAAAAAAAACBAAAAAAAAAAAAAAEAAAMAASAAwAAAgAgAgAAAAAAAAAAIEAAAAAAAAAAAAAAQMAAAAAAAAAAAAAAAABAAAAAAAQgAAEAAAAAAAAAAAAAAAABAAAAAIA&addtl_consent=1~5231.2657.89.61.2822.827.3005.2567.1033.15731.1342.2813.1029.3126.1725.2963.144.3023.2568.385.2920.494.495.576.2224.230.3253.550.122.70.2878.161.196.1025.16831.1097.1126.1301.2778.2068.2416.2575.33931.1942.2074.2109.2869.1047.2223.442.13731.445.2577&redir=https%3A%2F%2Fcm.g.doubleclick.net%2Fpixel%3Fgoogle_nid%3Dspotxchange_dbm%26google_hm%3D%24SPOTX_BASE64_USER_ID:0
+[  143340ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://www.automationexercise.com/signup:0
+[  143556ms] [ERROR] Attestation check for Attribution Reporting on https://ad.doubleclick.net failed. @ https://www.automationexercise.com/signup:0
+[  143573ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://static.admaster.cc/js/admaster/cookieSync.html?tn=2ce2e6e33746b4224011d22068a89c02:0
+[  143684ms] [TIMEEND] a: 0.001953125 ms @ https://static.adsafeprotected.com/sca.17.6.4.js:31

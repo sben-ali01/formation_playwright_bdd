@@ -1,0 +1,29 @@
+{
+  "name": "formation_play_bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js --config cucumber.config.js",
+    "test:dry": "cucumber-js --config cucumber.config.js --dry-run --format @cucumber/pretty-formatter",
+    "report": "node scripts/generate-report.js",
+    "clean": "rimraf allure-results allure-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.9.0",
+    "@playwright/test": "^1.60.0",
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^25.9.1",
+    "allure-cucumberjs": "^3.9.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "js-yaml": "^4.2.0"
+  }
+}
