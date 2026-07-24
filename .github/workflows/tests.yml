@@ -84,3 +84,4 @@ jobs:
           publish_dir: ./allure-report
         # ↑ Publie le rapport sur GitHub Pages
         #   Accessible via : https://username.github.io/repo-name
+   
