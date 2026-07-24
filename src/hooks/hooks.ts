@@ -76,7 +76,7 @@ BeforeAll(async function () {
 // ↑ Pas de `this` ici — BeforeAll n'a pas accès au World
 //   Utilisé pour les initialisations LOURDES et PARTAGÉES
 
-  browser = await chromium.launch({headless: false});
+  browser = await chromium.launch();
     // ↑ Lit HEADLESS depuis .env
     //   HEADLESS=false dans .env → false → navigateur VISIBLE
     //   Non défini ou true     → true  → navigateur INVISIBLE (CI/CD)
