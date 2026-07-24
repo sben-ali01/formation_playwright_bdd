@@ -9,6 +9,9 @@ on:
 # ↑ Déclenché à chaque push sur main
 #   et à chaque Pull Request vers main
 
+permissions:
+  contents: write
+
 jobs:
   test:
     name: Run BDD Tests
