@@ -1,0 +1,86 @@
+name: BDD Playwright Tests
+# ↑ Nom du workflow — visible dans l'onglet Actions de GitHub
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+# ↑ Déclenché à chaque push sur main
+#   et à chaque Pull Request vers main
+
+jobs:
+  test:
+    name: Run BDD Tests
+    runs-on: ubuntu-latest
+    # ↑ Machine virtuelle Ubuntu — gratuite sur GitHub
+
+    steps:
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+        # ↑ Récupère le code du repo sur la machine virtuelle
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: "npm"
+        # ↑ Installe Node.js 22 + cache npm pour accélérer
+
+      - name: Install dependencies
+        run: npm ci
+        # ↑ npm ci = npm install mais depuis package-lock.json
+        #   Plus rapide et reproductible que npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+        # ↑ Télécharge Chromium sur la machine virtuelle
+        #   --with-deps : installe aussi les dépendances système
+
+      - name: Install Java (for Allure)
+        uses: actions/setup-java@v4
+        with:
+          distribution: "temurin"
+          java-version: "17"
+        # ↑ Allure Report nécessite Java
+
+      - name: Install Allure CLI
+        run: npm install -g allure-commandline
+
+      - name: Create .env file
+        run: |
+          echo "BASE_URL=${{ secrets.BASE_URL }}" >> .env
+          echo "TEST_USER_EMAIL=${{ secrets.TEST_USER_EMAIL }}" >> .env
+          echo "TEST_USER_PASSWORD=${{ secrets.TEST_USER_PASSWORD }}" >> .env
+          echo "HEADLESS=true" >> .env
+        # ↑ Crée le .env depuis les GitHub Secrets
+        #   Les secrets sont définis dans Settings → Secrets
+        #   HEADLESS=true → pas de navigateur visible en CI
+
+      - name: Run tests
+        run: npm test
+        continue-on-error: true
+        # ↑ continue-on-error: true → génère le rapport même si des tests échouent
+
+      - name: Generate Allure Report
+        run: allure generate allure-results --clean -o allure-report
+        if: always()
+        # ↑ if: always() → exécuté même si les tests ont échoué
+
+      - name: Upload Allure Report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: allure-report
+          path: allure-report
+        # ↑ Téléchargeable depuis l'onglet Actions → Artifacts
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == "refs/heads/main"
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./allure-report
+        # ↑ Publie le rapport sur GitHub Pages
+        #   Accessible via : https://username.github.io/repo-name
