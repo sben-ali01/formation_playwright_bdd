@@ -1,10 +1,10 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
 "En tant que nouvel utilisateur d'Automation Exercise
   Je veux pouvoir créer un compte depuis la page de connexion
-  Afin d'accéder aux fonctionnalités réservées et gérer mon profil","328","Email déjà existant","","2026-07-24","broken","2026-07-24","","","",""
+  Afin d'accéder aux fonctionnalités réservées et gérer mon profil","353","Champs obligatoires vides","","2026-07-28","broken","2026-07-28","","","",""
 "En tant que nouvel utilisateur d'Automation Exercise
   Je veux pouvoir créer un compte depuis la page de connexion
-  Afin d'accéder aux fonctionnalités réservées et gérer mon profil","401","Inscription complète en trois étapes","","2026-07-24","broken","2026-07-24","","","",""
+  Afin d'accéder aux fonctionnalités réservées et gérer mon profil","346","Inscription complète en trois étapes","","2026-07-28","broken","2026-07-28","","","",""
 "En tant que nouvel utilisateur d'Automation Exercise
   Je veux pouvoir créer un compte depuis la page de connexion
-  Afin d'accéder aux fonctionnalités réservées et gérer mon profil","342","Champs obligatoires vides","","2026-07-24","broken","2026-07-24","","","",""
+  Afin d'accéder aux fonctionnalités réservées et gérer mon profil","345","Email déjà existant","","2026-07-28","broken","2026-07-28","","","",""
