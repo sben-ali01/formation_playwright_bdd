@@ -98,6 +98,7 @@ readonly cartTotal: Locator;
     // ↑ Bouton Add to cart dans l'overlay
     //   .first() car il peut y avoir plusieurs boutons sur la page
 
+    //test github
     // -- Modal de confirmation --
     this.modalConfirmation = page.locator('#cartModal');
     // ↑ La modale est identifiée par son id #cartModal
